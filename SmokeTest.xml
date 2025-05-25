@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
-<suite name="Smoke Test">
+<suite name="Smoke Teest">
     <test name="Smoke Test on Chrome">
         <classes>
             <class name="TestCases"/>
