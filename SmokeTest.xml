@@ -3,7 +3,7 @@
 <suite name="Smoke Test">
     <test name="Smoke Test on Chrome">
         <classes>
-            <class name="TestCases"/>
+            <class name=" Test Cases "/>
         </classes>
     </test>
 </suite>
