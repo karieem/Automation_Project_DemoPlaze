@@ -20,6 +20,7 @@ public class TestCases {
     @BeforeTest
     public void Setup()
     {
+        // Comment
         driver = new ChromeDriver();
         driver.get("https://www.demoblaze.com/index.html");
         driver.manage().window().maximize();
